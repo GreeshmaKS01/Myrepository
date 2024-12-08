@@ -9,7 +9,7 @@ def hello_world():
     """
     Endpoint to return a simple greeting message.
     """
-    return 'Hello, Azure! This is a Python web app using Flask.'
+    return 'Hello, Azure! This is a Python web app using Flask and my name is Greeshma.'
 
 # Run the application
 if __name__ == '__main__':
